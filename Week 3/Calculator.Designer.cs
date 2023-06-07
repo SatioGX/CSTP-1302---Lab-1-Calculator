@@ -1,6 +1,6 @@
 ﻿namespace Week_3
 {
-    partial class Form1
+    partial class Calculator
     {
         /// <summary>
         ///  Required designer variable.
